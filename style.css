@@ -1,0 +1,17 @@
+body {
+  font-family: system-ui;
+  text-align: center;
+  padding: 30px;
+}
+
+#penguin svg {
+  width: 260px;
+  margin: 20px auto;
+  display: block;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  cursor: pointer;
+}

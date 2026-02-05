@@ -1,0 +1,14 @@
+{
+    "name": "penguin-talk",
+    "version": "1.0.0",
+    "description": "Talking penguin using OpenAI + ElevenLabs on Netlify",
+    "type": "module",
+    "scripts": {
+      "dev": "netlify dev"
+    },
+    "dependencies": {
+      "openai": "^4.26.0",
+      "@elevenlabs/elevenlabs-js": "^1.5.0"
+    }
+  }
+  
